@@ -1,12 +1,3 @@
-/*
- * Simple Accordion
- *
- * @version 0.1
- * @author  Ishan Ratnapala
- * @link    <simple-accordion-bitbucket>
- *
- */
-
 define([
     'jquery',
     'utility',
